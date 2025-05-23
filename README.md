@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently working on a project identifying Loss of Function Mutations in HS Rats
-- For some info on this take a look at the lof repository but beware it is far from updated and looking nice 😬 
+- For some info on this take a look at the lof repository but beware it is far from updated 😬 
 - I am interested in learning algorithmic techniques for computer science, computational biology, machine learning in bioinformatics, and more!
